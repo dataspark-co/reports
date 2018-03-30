@@ -38,7 +38,13 @@ OP_CHECKSIG
 Временная блокировка устанавливается таким образом, чтобы Боб имел возможность получить свои деньги до Алисы. Иначе Алиса может подождать и получить свои деньги, а потом потребовать деньги Боба, раскрыв K.
 
 ### Реализация
+
 1. [https://github.com/bitcoin/bitcoin/pull/7601](https://github.com/bitcoin/bitcoin/pull/7601)
 2. [https://github.com/zcash-hackworks/zbxcat](https://github.com/zcash-hackworks/zbxcat)
 3. [https://github.com/functionalfoundry/ethereum-htlc](https://github.com/functionalfoundry/ethereum-htlc)
 4. [https://github.com/yemel/bitcore-stream](https://github.com/yemel/bitcore-stream)
+
+
+### Дополнительные материалы
+
+1. [The first successful Zero-Knowledge Contingent Payment](https://bitcoincore.org/en/2016/02/26/zero-knowledge-contingent-payments-announcement/)
