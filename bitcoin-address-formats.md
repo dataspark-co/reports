@@ -40,7 +40,7 @@ Bech32 - формат адреса segwit, указанный BIP 0173. Этот
 | 5 | 05 | Script hash (P2SH address) | 3 | 3EktnHQD7RiAE6uzMj2ZifT9YgRrkSgzQX |
 | 128 | 80 | Private key (WIF, uncompressed pubkey) | 5 | 5Hwgr3u458GLafKBgxtssHSPqJnYoGrSzgQsPwLFhLNYskDPyyA |
 | 128 | 80 | Private key (WIF, compressed pubkey) | K or L | L1aW4aubDFB7yfras2S1mN3bqg9nwySY8nkoLmJebSLD5BWv3ENZ |
-| 4 136 178 30 | 0488B21E | BIP32) pubkey | xpub | xpub661MyMwAqRbcEYS8w7XLSVeEsBXy79zSzH1J8vCdxAZningWLdN3zgtU6LBpB85b3D2yc8sfvZU521AAwdZafEz7mnzBBsz4wKY5e4cp9LB |
+| 4 136 178 30 | 0488B21E | BIP32 pubkey | xpub | xpub661MyMwAqRbcEYS8w7XLSVeEsBXy79zSzH1J8vCdxAZningWLdN3zgtU6LBpB85b3D2yc8sfvZU521AAwdZafEz7mnzBBsz4wKY5e4cp9LB |
 | 4 136 173 228 | 0488ADE4 | BIP32 private key | xprv | xprv9s21ZrQH143K24Mfq5zL5MhWK9hUhhGbd45hLXo2Pq2oqzMMo63oStZzF93Y5wvzdUayhgkkFoicQZcP3y52uPPxFnfoLZB21Teqt1VvEHx |
 | 111 | 6F | Testnet pubkey hash | m or n | mipcBbFg9gMiCh81Kj8tqqdgoZub1ZJRfn |
 | 196 | C4 | Testnet script hash | 2 | 2MzQwSSnBHWHqSAqtTVQ6v47XtaisrJa1Vc |
